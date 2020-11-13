@@ -1,0 +1,17 @@
+#app {
+  background: #fcfadf;
+}
+
+.text_bar {
+  
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+
+.text_bu {
+  text-transform: capitalize;
+  color: white;
+  font-size: 5px;
+  margin-top: 40px;
+}
