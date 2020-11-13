@@ -30,7 +30,7 @@
             </v-card-subtitle>
           </v-card>
 
-<v-btn color="success" @click="goToGmap(buLat, buLng)">VIEW ON MAP</v-btn>
+<v-btn color="success" @click="goToGmap(buLat, buLng)">VIEW ON MAP 1</v-btn>
 
         </v-col>
       </v-row>
